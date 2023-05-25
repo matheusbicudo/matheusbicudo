@@ -1,7 +1,6 @@
 ## Olá! Eu sou Matheus Bicudo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbicudo&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbicudo&layout=compact&theme=synthwave)](https://github.com/matheusbicudo/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
